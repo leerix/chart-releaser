@@ -10,13 +10,13 @@ require (
 	github.com/magefile/mage v1.11.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.7.0
-	golang.org/x/oauth2 v0.0.0-20210216194517-16ff1888fd2e
-	golang.org/x/tools v0.1.0
-	helm.sh/helm/v3 v3.5.2
+	github.com/stretchr/testify v1.10.0
+	golang.org/x/oauth2 v0.23.0
+	golang.org/x/tools v0.26.0
+	helm.sh/helm/v3 v3.17.3
 )
 
 replace (
